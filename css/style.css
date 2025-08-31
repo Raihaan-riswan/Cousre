@@ -10,6 +10,7 @@ h1,h2{
 }
 .container-fluid{
     background: fixed #050623;
+    height: auto;
     
 }
 .navbar{
