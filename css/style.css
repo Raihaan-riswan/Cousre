@@ -1,6 +1,17 @@
 *{
-     font-family: "Lora", serif;;
+     font-family: "Lora", serif;
+     
+}
+body{
+    margin: 0 auto;
 }
 h1,h2{
     font-family: "Montserrat", sans-serif;
+}
+.container-fluid{
+    background: fixed #050623;
+    
+}
+.navbar{
+    padding-top: 0px
 }
