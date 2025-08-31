@@ -24,3 +24,10 @@ ul li{
 ul li:hover{
     background: burlywood;
 }
+.btn{
+    width:120px;
+    
+}
+.navbar-toggler-icon{
+    font-color: white;
+}
