@@ -98,7 +98,14 @@ ul li:hover{
     position: relative;
     left:135.5%;
     animation: bai 0.5s ease;
-    z-index: 1;
+    z-index: 2;
+}
+img{
+    position: absolute;
+    height: 750px;
+    left: 520px;
+    top: 45px;
+    z-index: 10;
 }
 @keyframes hai{
     0%{
@@ -117,7 +124,7 @@ ul li:hover{
     }
 }
 /* @media (max-width: 992px){
-    .one,.three{
+    .one,.three,im{
         display: none;
     }
     .two{
