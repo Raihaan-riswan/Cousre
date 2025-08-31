@@ -64,7 +64,7 @@ ul li:hover{
 .two img{
     position: absolute;
     z-index: 2;
-    height: 700px;
+    height: 90%;
     top: 10%;
     left: 35%;
     
@@ -133,19 +133,7 @@ ul li:hover{
     }
 
 }
-@media (max-width: 1367px){
-    .two img{
-        position: absolute;
-        z-index: 2;
-        height: 90vh;
-        left: 25rem;
-        top:6.5rem;
-    }
-    .two .one-spl{
-        
-        left: 38.15rem;
-    }
-}
+
 @media (max-width: 1025px){
 
     .main-containe{
