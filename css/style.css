@@ -108,7 +108,7 @@ ul li:hover{
 .one-spl{
     background: white;
     height: 0vh;
-    width: 10%;
+    width: 11%;
     position: absolute;
     left:42.9rem;
     top:0rem;
@@ -133,7 +133,7 @@ ul li:hover{
     }
 
 }
-@media (max-width: 1367px){
+@media (max-width: 2568px){
     .two img{
         position: absolute;
         z-index: 2;
@@ -143,7 +143,7 @@ ul li:hover{
     }
     .two .one-spl{
         
-        left: 38.15rem;
+        left: 35.7rem;
     }
 }
 @media (max-width: 1025px){
