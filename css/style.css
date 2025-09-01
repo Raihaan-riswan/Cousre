@@ -8,6 +8,7 @@ body{
 h1,h2{
     font-family: "Montserrat", sans-serif;
 }
+
 .container-fluid{
     background: fixed #050623;
     height: auto;
@@ -34,6 +35,7 @@ ul li:hover{
     width: 100%;
 
 }
+/* Contaier start */
 .main-containe{
     height: 100vh;
     margin: 0 auto;
@@ -53,8 +55,12 @@ ul li:hover{
 }
 .one h1{
     margin: 0 auto;
-    margin-top: 50%;
+    margin-top: 40%;
     
+}
+.one .other-h1{
+    margin: 0 auto;
+    margin-top: 20%;
 }
 .two{
     
@@ -68,7 +74,7 @@ ul li:hover{
 .two div{
     display: flex;
 }
-.two img{
+.two .boy{
     position: absolute;
     z-index: 2;
     height: 90%;
@@ -123,6 +129,13 @@ ul li:hover{
     animation:bai 0.5s ease;
     z-index: 1;
 }
+.one .logo{
+    width: 50%;
+    height: auto;
+    margin-top: 10%;
+    border-radius: 100%;
+    display: none;
+}
 
 @keyframes hai{
     0%{
@@ -148,7 +161,11 @@ ul li:hover{
         display: inline;
     }
     .one,.three{
+        
         width: 100%;
+    }
+    .one .logo{
+        display: inline;
     }
     .two{
         display: none;
