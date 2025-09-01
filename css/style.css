@@ -2,7 +2,11 @@
      font-family: "Lora", serif;
      
 }
+HTML{
+    scroll-behavior: smooth;
+}
 body{
+    
     margin: 0 auto;
 }
 h1,h2{
@@ -145,7 +149,7 @@ ul li:hover{
 .About{
     width: 100%;
     height: 100vh;
-    background: BALCK;
+    background: black;
 }
 
 @keyframes hai{
