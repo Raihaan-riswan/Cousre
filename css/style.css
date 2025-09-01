@@ -46,7 +46,7 @@ ul li:hover{
     display: flex;
 }
 .one{
-    
+    background: rgba(255, 255, 255, 0);
     text-align: center;
     align-items: center;
     height: 100vh;
@@ -63,7 +63,7 @@ ul li:hover{
     margin-top: 20%;
 }
 .two{
-    
+    background: rgba(255, 255, 255, 0);
     height: 100vh;
     width: 33.3%;
     
@@ -85,6 +85,7 @@ ul li:hover{
     
 }
 .three{
+    background: rgba(255, 255, 255, 0);
     height: 100vh;
     width: 33.3%;
    
@@ -120,7 +121,7 @@ ul li:hover{
     animation: hai 0.5s ease;
 }
 .one-spl{
-    background: white;
+    background: rgba(255, 255, 255, 0.004);
     height: 0vh;
     width: 10%;
     position: absolute;
@@ -159,15 +160,19 @@ ul li:hover{
 
     .main-containe{
         display: inline;
+        background: #050623;
     }
-    .one,.three{
-        
+    .main-containe h1{
+        color: #FAFA03;
+    }
+    .one{
+         background: #372053;
         width: 100%;
     }
     .one .logo{
         display: inline;
     }
-    .two{
+    .two,.three{
         display: none;
     }
     
