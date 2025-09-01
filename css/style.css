@@ -147,8 +147,18 @@ ul li:hover{
     margin-top: 60%;
 }
 /* About */
+.about{
+    height: 100vh;
+}
 .row .col1{
     border: 1px solid #050623;
+}
+.row h3{
+    color: #050623;
+}
+.about-img{
+    width: 75%;
+    border-radius: 50px;
 }
 
 @keyframes hai{
