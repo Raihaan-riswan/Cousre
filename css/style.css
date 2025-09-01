@@ -151,7 +151,8 @@ ul li:hover{
     height: 100vh;
 }
 .row .col1{
-    border: 1px solid #050623;
+    border: 5px solid #050623;
+    border-radius: 15px;
 }
 .row h3{
     color: #050623;
