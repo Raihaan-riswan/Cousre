@@ -179,6 +179,9 @@ ul li:hover{
 .services .card{
     height: 200%;
 }
+i{
+    color: black;
+}
 @keyframes hai{
     0%{
         height: 0vh;
