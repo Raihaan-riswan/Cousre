@@ -169,6 +169,10 @@ ul li:hover{
     border-radius: 15px;
 }
 .services{
+    height: 100vh;
+    background: #050623;
+}
+.services .heading{
     background: #050623;
 }
 @keyframes hai{
