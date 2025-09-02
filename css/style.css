@@ -126,7 +126,7 @@ ul li:hover{
     animation: hai 0.5s ease;
 }
 .one-spl{
-    background: rgba(255, 255, 255, 0.004);
+    background: white;
     height: 0vh;
     width: 10%;
     position: absolute;
@@ -148,7 +148,7 @@ ul li:hover{
 }
 /* About */
 .about{
-    height: 100vh;
+    height: auto;
 }
 .row .col1{
     border: 5px solid #050623;
@@ -158,7 +158,8 @@ ul li:hover{
     color: #050623;
 }
 .about-img{
-    width: 75%;
+    width: 80%;
+    height: 100%;
     border-radius: 50px;
     border: solid 5px #050623;
     padding: 0.5%;
