@@ -163,7 +163,10 @@ ul li:hover{
     border: solid 5px #050623;
     padding: 0.5%;
 }
-
+.right{
+    background: #372053;
+    border-radius: 15px;
+}
 @keyframes hai{
     0%{
         height: 0vh;
