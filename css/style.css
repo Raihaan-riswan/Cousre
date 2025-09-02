@@ -236,6 +236,9 @@ i{
 }
 
 @media (max-width: 1025px){
+    .right img{
+        height: 100%;
+    }
 
     .main-containe{
         display: inline;
