@@ -238,7 +238,8 @@ i{
 }
 
 @media (max-width: 1025px){
-    .right img{
+    .right .about-img{
+        width: 80%;
         height: 100%;
     }
 
