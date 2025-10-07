@@ -329,7 +329,7 @@ i{
 /* Wrapper for the text content */
 .oti-card-content {
     
-    /* z-index: 5; */
+    z-index: 5;
     padding: 1.5rem;
 }
 
