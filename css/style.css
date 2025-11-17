@@ -153,6 +153,7 @@ ul li:hover{
 .row .col1{
     border: 5px solid #050623;
     border-radius: 15px;
+    box-shadow: 72px 0px 102px 22px rgba(0,0,0,0.75);
 }
 .row h3{
     color: #050623;
@@ -162,12 +163,13 @@ ul li:hover{
     height: 100%;
     border-radius: 50px;
     border: solid 5px #050623;
+    box-shadow: -71px 0px 102px 22px rgba(0,0,0,0.75);
     
     padding: 0.5%;
 }
 .right{
 
-    background: #372053;
+    /* background: #372053; */
     border-radius: 15px;
 }
 .services{
