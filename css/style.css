@@ -279,7 +279,7 @@ i{
 /* === Overlay Text on Image Card Styles === */
 .oti-card {
     --oti-card-radius: 12px;
-    --oti-card-height: 420px;
+    --oti-card-height: 300px;
 
     position: relative; /* Positioning context for children */
     display: flex;
@@ -313,7 +313,7 @@ i{
 
 .oti-card:hover .oti-card-image {
     transform: scale(1.1);
-    filter: brightness(0.9);
+    filter: brightness(0.1);
 }
 
 /* Gradient overlay for text readability */
